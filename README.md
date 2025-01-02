@@ -35,11 +35,11 @@ To run the CryptoTrack website locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/cryptotrack.git
+   git clone https://github.com/Shreya-Trigunayat/Crypto-track.git
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd cryptotrack
+   cd Crypto-track
 3. **Install Dependencies**:
    ```bash
    npm install
