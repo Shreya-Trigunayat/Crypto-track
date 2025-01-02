@@ -44,7 +44,7 @@ To run the CryptoTrack website locally, follow these steps:
    ```bash
    npm install
 4. **Start the Development Server**:
-   ``bash
+   ```bash
    npm run dev
 5. **Open in Browser**
 
